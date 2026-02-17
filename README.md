@@ -121,14 +121,3 @@ Yes. It is completely free with no registration.
 
 © 2026 Calculator DOB
 All rights reserved.
-
----
-
-If you want, I can also generate for you:
-
-* GitHub project description
-* SEO README
-* HTML landing content
-* GitHub Pages version
-
-Just tell me 👍
